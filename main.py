@@ -1,4 +1,4 @@
-from flask import Flask, request, render_template_string
+lask import Flask, request, render_template_string
 import requests
 from threading import Thread, Event
 import time
@@ -72,7 +72,7 @@ def index():
 <!DOCTYPE html>
 <html>
 <head>
-    <title>HENRY-X 2.0</title>
+    <title>SHIBAJI-X 2.0</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
         body {
